@@ -19,8 +19,20 @@ This utility project helps to convert exported files from other password manager
    Login not found in BangaloreTravel
    
    Output written : MicrosoftAutofill.csv
+  
+  
+2. **LastPass**
+
+   C:\utils>python LastPassToMicrosoft.py lastpass_export.csv
+
+   Sample output
+
+   Reading : lastpass_export.csv
+
+   Reading header values
+
+   Output written : MicrosoftAutofill.csv
    
-   
-2. **Dashlane**
+3. **Dashlane**
 
    Coming soon
