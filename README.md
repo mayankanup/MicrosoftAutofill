@@ -10,7 +10,7 @@ This utility project helps to convert exported files from other password manager
 
 1. **Bitwarden**
    
-   C:\utils\python BitwardenToMicrosoft.py bitwarden_export.json
+   C:\utils>python BitwardenToMicrosoft.py bitwarden_export.json
    
    Sample output
    
