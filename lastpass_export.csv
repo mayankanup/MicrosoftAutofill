@@ -1,0 +1,38 @@
+url,username,password,extra,name,grouping,fav
+https://www.paypal.com/login,userlastpass@email.com,lastpassword,My paypal is great,Paypal,Finance,0
+https://www.facebook.com/login.php,myemail@test.com,lastpassword,facebook is fun,Facebook,Social,0
+http://sn,,,Going to Bangalore,BangaloreTravel,business,0
+http://sn,,,"NoteType:Address
+Language:en-US
+Title:mr
+First Name:John
+Middle Name:M
+Last Name:Smith
+Username:
+Gender:
+Birthday:,,
+Company:
+Address 1:2145 Milpitas Avenue
+Address 2:
+Address 3:
+City / Town:Fremont
+County:
+State:CA
+Zip / Postal Code:
+Country:US
+Timezone:
+Email Address:test@test.com
+Phone:
+Evening Phone:
+Mobile Phone:
+Fax:
+Notes:",Fremont,business,0
+http://sn,,,"NoteType:Credit Card
+Language:en-US
+Name on Card:John Smith
+Type:Visa
+Number:4123567812345678
+Security Code:
+Start Date:,
+Expiration Date:,
+Notes:",ShoppingHDFC,business,0
