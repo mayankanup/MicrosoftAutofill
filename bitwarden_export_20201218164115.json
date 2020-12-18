@@ -1,0 +1,69 @@
+{
+  "folders": [
+    {
+      "id": "4d33a23c-326f-45f9-b206-ac9500a8ab1f",
+      "name": "business"
+    },
+    {
+      "id": "8197da40-b9e7-40bf-a26a-ac9500a5c756",
+      "name": "personal"
+    }
+  ],
+  "items": [
+    {
+      "id": "2c8eda42-26ba-416b-9782-ac9500b83cf4",
+      "organizationId": null,
+      "folderId": "4d33a23c-326f-45f9-b206-ac9500a8ab1f",
+      "type": 2,
+      "name": "BangaloreTravel",
+      "notes": "I am planning to go on a trip",
+      "favorite": false,
+      "secureNote": {
+        "type": 0
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "380b0ebb-1a55-407d-866b-ac9500a93290",
+      "organizationId": null,
+      "folderId": "4d33a23c-326f-45f9-b206-ac9500a8ab1f",
+      "type": 1,
+      "name": "Coursera",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.coursera.org"
+          }
+        ],
+        "username": "user@email.com",
+        "password": "userpassword",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "7bc7ddad-9537-442c-a21a-ac9500a7cad7",
+      "organizationId": null,
+      "folderId": "8197da40-b9e7-40bf-a26a-ac9500a5c756",
+      "type": 1,
+      "name": "Twitter",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://twitter.com/login"
+          }
+        ],
+        "username": "courselearner",
+        "password": "learnpassword",
+        "totp": null
+      },
+      "collectionIds": null
+    }
+  ]
+}
