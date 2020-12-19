@@ -36,3 +36,5 @@ This utility project helps to convert exported files from other password manager
 3. **Dashlane**
 
    Coming soon
+
+For any feedback and issues please feel free to reach me at <anup.mayank@outlook.com>
